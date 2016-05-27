@@ -3,7 +3,7 @@ Alignment Viewer of the special sites in bam base on python
 
 ```
 ###############################################################################
-Bam Reads
+BamAlignmentViewer
 A program for plot the reads covered target position for BAM sequence alignment
  files.
  Author: JoeyHwong (joeyhwong@hotmail.com)
