@@ -4,7 +4,7 @@
 
 """
 ###############################################################################
-Bam Reads
+BamAlignmentViewer
 A program for plot the reads covered target position for BAM sequence alignment
  files.
 Author: JoeyHwong (joeyhwong@hotmail.com)
